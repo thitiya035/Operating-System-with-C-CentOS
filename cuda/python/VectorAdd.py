@@ -8,7 +8,7 @@ def VectorAdd(a, b):
     return a + b
 
 def main():
-    N = 32000000
+    N = 32000000            #
 
     A = np.ones(N, dtype=np.float32)
     B = np.ones(N, dtype=np.float32)
