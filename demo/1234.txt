@@ -1,0 +1,15 @@
+printf("%s:%s, %s:%s, %s:%d,%s:%d,%s:%s,%s:%s,%s:%s,%s:%s,%s:%f,%s:%f,%s:%s,%s:%s,%s:%s,",
+  "TRANS_ID"  , NewUser.TRANS_ID, 
+    "ID"        , NewUser.ID, 
+    "TIME"      , NewUser.TIME, 
+    "STAT"      , NewUser.STAT, 
+    "NAME"      , NewUser.NAME, 
+    "SURN"      , NewUser.SURN, 
+    "PASS"      , NewUser.PASS, 
+    "ACT"       , NewUser.ACT, 
+    "MOUNEY"    , NewUser.MOUNEY, 
+    "AMOU"      , NewUser.AMOU, 
+    "TYPE"      , NewUser.TYPE, 
+    "PHONE"     , NewUser.PHONE, 
+    "By"        , NewUser.By
+);;

@@ -1,0 +1,5 @@
+• adduser –g [group name] –d [destination group ] username
+	• adduser –g student –d /home/student std0X
+	  Exsample : std01:x:1003:1006::/home/student:/bin/bash
+
+* useradd -g student –u 2001 weerayut 

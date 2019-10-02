@@ -1,0 +1,27 @@
+
+at:1 : (P1)PUSH   SJF  N<Q :NEW                                                      |
+at:1 : (P1)LOAD            :                OUT: 1    WAI: 2    << IN : 3            |
+at:1 : (P1)EXEC            :       BT: 2    REM: 3    PRI: 5                         |
+at:1 : (P1)SAVE            :       IN: 2    OUT: 3    WAI: 5    >> OUT: 1            |
+
+//push//
+printf("\nat:%-2d: (P%d)%-7s%-5s%-4s:%-5s%52s|", at, PID, "PUSH", "SJF", "N<Q", "NEW",	"" );
+
+//exec//
+printf("\nat:%-2d: (P%d)%-16s:%7sBT: %-5dREM: %-5dPRI: %-5d%21s|", at, Temp_PID, "EXEC", " ", Info[Temp_PID].BT, Info[Temp_PID].REMAIN, Info[Temp_PID].PRI,"" );
+
+//save//
+printf("\nat:%-2d: (P%d)%-16s:%7sIN: %-5dOUT: %-5dWAI: %-5d>> OUT: %-3d%10s|", 1, 1, "SAVE", " ", 2, 3, 5,1, "" );
+printf("\nat:%-2d: (P%d)%-16s:%7s"	, at, Temp_PID, "SAVE", " ");
+printf("IN: %-5dOUT: %-5dWAI: %-5d", Info[Temp_PID].IN, Info[Temp_PID].OUT, Info[Temp_PID].WAITING);
+printf(">> OUT: %-3d%10s|"	, Info[Temp_PID].OUT, "" );
+
+//load//
+printf("\nat:%-2d: (P%d)%-16s:%16sOUT: %-5dWAI: %-5d<< IN : %-3d%10s|", at, PID, "LOAD", " ",	 1, 2, 3, 	"" );
+printf("\nat:%-2d: (P%d)%-16s:%16sOUT: %-5dWAI: %-5d<< IN : %-3d%10s|", at, Temp_PID, "LOAD", " ", Info[Temp_PID].OUT,Info[Temp_PID].WAITING, Info[Temp_PID].IN, "" );
+
+
+//
+
+
+
