@@ -1,6 +1,7 @@
+// By Weerayut Buaphet
+// https://github.com/weerayutbu
+
 //------------- Non preemptive SJF scheduling. -------------------------------------
-
-
 int execute_SJF_NPre(struct Process Info[NumOfPro], int ex_pid, int at){
 	
 

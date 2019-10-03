@@ -1,3 +1,6 @@
+// By Weerayut Buaphet
+// https://github.com/weerayutbu
+
 int PushP(struct Process Info[NProcess], int &at, char Algo[10]);
 int Push_SJF( int newP, int at);
 int Push_PRIO(int newP, int at);

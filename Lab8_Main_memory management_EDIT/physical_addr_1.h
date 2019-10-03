@@ -1,3 +1,5 @@
+// By Weerayut Buaphet
+// https://github.com/weerayutbu
 
 void show_logical_table(){
 	

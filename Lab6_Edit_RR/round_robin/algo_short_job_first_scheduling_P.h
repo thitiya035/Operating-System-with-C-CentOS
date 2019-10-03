@@ -1,3 +1,6 @@
+// By Weerayut Buaphet
+// https://github.com/weerayutbu
+
 void SavePP(int Temp_PID, int &at ,int INC);
 void ExecuteP_P(int Temp_PID, int &at, int &Fl);
 void SJF_Preemp(struct Process Info[NProcess]);

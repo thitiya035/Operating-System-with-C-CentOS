@@ -1,3 +1,6 @@
+// By Weerayut Buaphet
+// https://github.com/weerayutbu
+
 #define N 11
 
 int Q[N];

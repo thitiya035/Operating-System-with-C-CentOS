@@ -1,3 +1,6 @@
+// By Weerayut Buaphet
+// https://github.com/weerayutbu
+
 void show_algor( int pro_alg);
 void choose_head_menu();
 float average_t(struct Process Info[NProcess]);

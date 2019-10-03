@@ -1,3 +1,4 @@
+// By www.geeksforgeeks.org
 // Banker's Algorithm 
 
 #include <stdio.h> 

@@ -1,4 +1,5 @@
-
+// By Weerayut Buaphet
+// https://github.com/weerayutbu
 
 float average_t(struct Process Info[NumOfPro]){
 	float sum = 0;

@@ -1,3 +1,6 @@
+// By Weerayut Buaphet
+// https://github.com/weerayutbu
+
 #define N 5  // 5-1 process
 
 int Q[N];

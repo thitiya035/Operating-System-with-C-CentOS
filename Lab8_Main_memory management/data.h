@@ -1,3 +1,6 @@
+// By Weerayut Buaphet
+// https://github.com/weerayutbu
+
 // lab 7-1
 #define m  4							// number of pages  in logical memory
 #define n  2							// page and address in logical memory

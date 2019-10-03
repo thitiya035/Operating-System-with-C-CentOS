@@ -1,3 +1,6 @@
+// By Weerayut Buaphet
+// https://github.com/weerayutbu
+
 #define NumOfPro 5						// Set Number of process 
 
 struct Process {

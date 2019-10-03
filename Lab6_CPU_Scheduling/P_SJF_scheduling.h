@@ -1,3 +1,6 @@
+// By Weerayut Buaphet
+// https://github.com/weerayutbu
+
 //------------- preemptive SJF scheduling. -------------------------------------
 
 int execute_SJF_Pre(struct Process Info[NumOfPro], int ex_pid, int QT, int at){

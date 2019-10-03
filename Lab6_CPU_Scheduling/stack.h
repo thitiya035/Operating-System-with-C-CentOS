@@ -1,3 +1,5 @@
+// By Weerayut Buaphet
+// https://github.com/weerayutbu
 
 //--Define--//
 #define MaxStack 20	// Set Max Stack

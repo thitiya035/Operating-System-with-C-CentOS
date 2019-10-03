@@ -1,3 +1,6 @@
+// By Weerayut Buaphet
+// https://github.com/weerayutbu
+
 int LoadProcess(int &at){
 	int Temp_PID = deleteCQ();
 	Info[Temp_PID].IN = at;

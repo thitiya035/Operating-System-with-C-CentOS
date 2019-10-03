@@ -1,4 +1,5 @@
-
+// By Weerayut Buaphet
+// https://github.com/weerayutbu
 
 int executeRR(struct Process Info[NumOfPro], int ex_pid, int QT, int at){
 	

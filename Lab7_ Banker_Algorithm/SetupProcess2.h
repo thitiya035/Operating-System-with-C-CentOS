@@ -1,3 +1,6 @@
+// By Weerayut Buaphet
+// https://github.com/weerayutbu
+
 // P0, P1, P2, P3, P4 are the Process names here 
 
 int i, j, k, start = 0; 

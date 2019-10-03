@@ -1,3 +1,6 @@
+// By Weerayut Buaphet
+// https://github.com/weerayutbu
+
 #include<stdio.h>
 #include<conio.h>
 #define NPro 19

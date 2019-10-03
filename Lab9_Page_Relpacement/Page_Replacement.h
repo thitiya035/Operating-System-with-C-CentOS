@@ -1,3 +1,6 @@
+// By Weerayut Buaphet
+// https://github.com/weerayutbu
+
 //int process[NPro] = { 2, 1, 2, 3, 7, 6, 2, 3, 4, 2, 1, 5, 6, 3, 2, 3, 6, 2, 1};
 //int process[NPro] = { 7, 0, 1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2, 1, 2, 0, 1, 7, 0, 1};
 

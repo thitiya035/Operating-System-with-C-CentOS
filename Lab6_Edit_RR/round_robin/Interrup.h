@@ -1,3 +1,5 @@
+// By Weerayut Buaphet
+// https://github.com/weerayutbu
 
 int CheckInterrupSJF(int PID, int &at){
 	printf("\nat:%-2d: (P%d)%-16s:"	, at, PID, "C-INTE");

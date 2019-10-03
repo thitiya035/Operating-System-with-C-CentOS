@@ -1,3 +1,6 @@
+// By Weerayut Buaphet
+// https://github.com/weerayutbu
+
 // variable
 #define NProcess 5						// Set Number of process 
 int Sequence[5][20];

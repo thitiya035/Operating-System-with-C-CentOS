@@ -1,3 +1,6 @@
+// By Weerayut Buaphet
+// https://github.com/weerayutbu
+
 // check all the process was terminate
 int Check_Process_Terminate(){
 

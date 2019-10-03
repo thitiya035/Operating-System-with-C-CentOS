@@ -1,3 +1,6 @@
+// By Weerayut Buaphet
+// https://github.com/weerayutbu
+
 void show_segment_table(){
 	printf("\n\nShow Segment Process table\n");
 	int i,j;
